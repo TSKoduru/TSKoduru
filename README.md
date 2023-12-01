@@ -41,6 +41,6 @@
 <br>
 <span align="center">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TSKoduru&theme=dark)
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=egxhutrw2ed0qq1yvrg0kepi9&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=egxhutrw2ed0qq1yvrg0kepi9&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=egxhutrw2ed0qq1yvrg0kepi9&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=09ff00&bar_color_cover=true)]]
 
 </span>
