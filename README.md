@@ -3,14 +3,14 @@
 <pre>
 
 
-                                                                                                                __/\__      
-████████╗███████╗     ██╗ █████╗     ██╗  ██╗ ██████╗ ██████╗ ██╗   ██╗██████╗ ██╗   ██╗                       `==/\==`               
-╚══██╔══╝██╔════╝     ██║██╔══██╗    ██║ ██╔╝██╔═══██╗██╔══██╗██║   ██║██╔══██╗██║   ██║             ____________/__\____________          
-   ██║   █████╗       ██║███████║    █████╔╝ ██║   ██║██║  ██║██║   ██║██████╔╝██║   ██║            /____________________________\
-   ██║   ██╔══╝  ██   ██║██╔══██║    ██╔═██╗ ██║   ██║██║  ██║██║   ██║██╔══██╗██║   ██║              __||__||__/.--.\__||__||__
-   ██║   ███████╗╚█████╔╝██║  ██║    ██║  ██╗╚██████╔╝██████╔╝╚██████╔╝██║  ██║╚██████╔╝             /__|___|___( >< )___|___|__\
-   ╚═╝   ╚══════╝ ╚════╝ ╚═╝  ╚═╝    ╚═╝  ╚═╝ ╚═════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝                        _/`--`\_
-                                                                                                              (/------\)
+                                                                                                           __/\__      
+████████╗███████╗     ██╗ █████╗     ██╗  ██╗ ██████╗ ██████╗ ██╗   ██╗██████╗ ██╗   ██╗                  `==/\==`               
+╚══██╔══╝██╔════╝     ██║██╔══██╗    ██║ ██╔╝██╔═══██╗██╔══██╗██║   ██║██╔══██╗██║   ██║        ____________/__\____________          
+   ██║   █████╗       ██║███████║    █████╔╝ ██║   ██║██║  ██║██║   ██║██████╔╝██║   ██║       /____________________________\
+   ██║   ██╔══╝  ██   ██║██╔══██║    ██╔═██╗ ██║   ██║██║  ██║██║   ██║██╔══██╗██║   ██║           ||__||__/.--.\__||__||__
+   ██║   ███████╗╚█████╔╝██║  ██║    ██║  ██╗╚██████╔╝██████╔╝╚██████╔╝██║  ██║╚██████╔╝        /__|___|___( >< )___|___|__\
+   ╚═╝   ╚══════╝ ╚════╝ ╚═╝  ╚═╝    ╚═╝  ╚═╝ ╚═════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝                   _/`--`\_
+                                                                                                         (/------\)
                                                                                                                
    </pre>
 
@@ -19,7 +19,7 @@
     I'm an undergrad at the University of Michigan studying aerospace engineering (I make things fly!). You can also find me <s>banging my head on</s> working my way through a few CS projects here and there, some of which relate to my adventures in hardware. Anyways, feel free to take a look around! If you have a moment, consider stopping by my <a href="https://tkoduru.tech">website</a>, or just shoot me an email at tkoduru@umich.edu. 
 </p>
 
-### Tools of the trade: HARDWARE
+### Tools of the trade: SOFTWARE (No, I'm not putting google onto here. Though, that's a pretty big one too.)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=Visual+Studio+Code&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=GNU+Bash&logoColor=white&color=lightgrey)
@@ -35,14 +35,15 @@
 <br>
 
 
-
-### Tools of the trade: SOFTWARE (No, I'm not putting google onto here. Though, that's a pretty big one too.)
-![](https://img.shields.io/badge/just%20the%20message-8A2BE2)
-![](https://img.shields.io/badge/just%20the%20message-8A2BE2)
-![](https://img.shields.io/badge/just%20the%20message-8A2BE2)
-![](https://img.shields.io/badge/just%20the%20message-8A2BE2)
+### Tools of the trade: HARDWARE
+![](https://img.shields.io/badge/Autodesk%Fusion%360-8A2BE2)
+![](https://img.shields.io/badge/Dassault%SOLIDWORKS-dfe22b)
+![](https://img.shields.io/badge/MATLAB-2b83e2)
+![](https://img.shields.io/badge/CATIA%&%STARCCM-e28a2b)
+![](https://img.shields.io/badge/General&Manufacturing-ffffff)
 <br>
 <br>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=egxhutrw2ed0qq1yvrg0kepi9&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=egxhutrw2ed0qq1yvrg0kepi9&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=TSKoduru&show_icons=true&theme=radical)
