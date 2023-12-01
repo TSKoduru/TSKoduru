@@ -3,15 +3,14 @@
 <pre>
 
 
-                                                                                                           __/\__      
-████████╗███████╗     ██╗ █████╗     ██╗  ██╗ ██████╗ ██████╗ ██╗   ██╗██████╗ ██╗   ██╗                  `==/\==`               
-╚══██╔══╝██╔════╝     ██║██╔══██╗    ██║ ██╔╝██╔═══██╗██╔══██╗██║   ██║██╔══██╗██║   ██║        ____________/__\____________          
-   ██║   █████╗       ██║███████║    █████╔╝ ██║   ██║██║  ██║██║   ██║██████╔╝██║   ██║       /____________________________\
-   ██║   ██╔══╝  ██   ██║██╔══██║    ██╔═██╗ ██║   ██║██║  ██║██║   ██║██╔══██╗██║   ██║           ||__||__/.--.\__||__||__
-   ██║   ███████╗╚█████╔╝██║  ██║    ██║  ██╗╚██████╔╝██████╔╝╚██████╔╝██║  ██║╚██████╔╝        /__|___|___( >< )___|___|__\
-   ╚═╝   ╚══════╝ ╚════╝ ╚═╝  ╚═╝    ╚═╝  ╚═╝ ╚═════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝                   _/`--`\_
-                                                                                                         (/------\)
-                                                                                                               
+                                                                                                      __/\__      
+████████╗███████╗     ██╗ █████╗     ██╗  ██╗ ██████╗ ██████╗ ██╗   ██╗██████╗ ██╗   ██╗             `==/\==`               
+╚══██╔══╝██╔════╝     ██║██╔══██╗    ██║ ██╔╝██╔═══██╗██╔══██╗██║   ██║██╔══██╗██║   ██║   ____________/__\____________          
+   ██║   █████╗       ██║███████║    █████╔╝ ██║   ██║██║  ██║██║   ██║██████╔╝██║   ██║  /____________________________\
+   ██║   ██╔══╝  ██   ██║██╔══██║    ██╔═██╗ ██║   ██║██║  ██║██║   ██║██╔══██╗██║   ██║      ||__||__/.--.\__||__||__
+   ██║   ███████╗╚█████╔╝██║  ██║    ██║  ██╗╚██████╔╝██████╔╝╚██████╔╝██║  ██║╚██████╔╝   /__|___|___( >< )___|___|__\
+   ╚═╝   ╚══════╝ ╚════╝ ╚═╝  ╚═╝    ╚═╝  ╚═╝ ╚═════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝              _/`--`\_
+                                                                                                    (/------\)                                                               
    </pre>
 
 ### And I do stuff. Brilliant! But, to be a bit more specific:
@@ -27,7 +26,7 @@
 <br>
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=green)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=CoffeeScript&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C%2B%2B&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C%202B%202B&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=yellow)
@@ -36,14 +35,15 @@
 
 
 ### Tools of the trade: HARDWARE
-![](https://img.shields.io/badge/Autodesk%Fusion%360-8A2BE2)
-![](https://img.shields.io/badge/Dassault%SOLIDWORKS-dfe22b)
+![](https://img.shields.io/badge/Autodesk%20Fusion%20360-8A2BE2)
+![](https://img.shields.io/badge/Dassault%20SOLIDWORKS-dfe22b)
 ![](https://img.shields.io/badge/MATLAB-2b83e2)
-![](https://img.shields.io/badge/CATIA%&%STARCCM-e28a2b)
-![](https://img.shields.io/badge/General&Manufacturing-ffffff)
+![](https://img.shields.io/badge/CATIA%20&%20STARCCM-e28a2b)
+![](https://img.shields.io/badge/General%20Manufacturing-ffffff)
 <br>
 <br>
-
+<span>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=egxhutrw2ed0qq1yvrg0kepi9&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=TSKoduru&show_icons=true&theme=radical)
+
+</span>
