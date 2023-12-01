@@ -40,7 +40,7 @@
 <br>
 <br>
 
-### Here's some statistics for all you nerds out there (I aim to please)
+### Here's some statistics for all you nerds out there (I aim to please):
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TSKoduru&theme=dark)
 
 ### And finally, we can wrap things up with a nice musical bow. Enjoy!
