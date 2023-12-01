@@ -1,6 +1,7 @@
 ### Hi there!👋 My name's
 
-<pre>                                                                                                 __/\__      
+<pre>
+                                                                                                      __/\__      
 ████████╗███████╗     ██╗ █████╗     ██╗  ██╗ ██████╗ ██████╗ ██╗   ██╗██████╗ ██╗   ██╗             `==/\==`               
 ╚══██╔══╝██╔════╝     ██║██╔══██╗    ██║ ██╔╝██╔═══██╗██╔══██╗██║   ██║██╔══██╗██║   ██║   ____________/__\____________          
    ██║   █████╗       ██║███████║    █████╔╝ ██║   ██║██║  ██║██║   ██║██████╔╝██║   ██║  /____________________________\
@@ -39,7 +40,7 @@
 <br>
 <br>
 <span>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=egxhutrw2ed0qq1yvrg0kepi9&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=TSKoduru&show_icons=true&theme=radical)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=egxhutrw2ed0qq1yvrg0kepi9&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+http://github-profile-summary-cards.vercel.app/api/cards/stats?username={TSKoduru}&theme={tokyonight}
 
 </span>
