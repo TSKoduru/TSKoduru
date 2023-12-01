@@ -43,6 +43,6 @@
 ### Here's some statistics for all you nerds out there (I aim to please):
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TSKoduru&theme=dark)
 
-### And finally, we can wrap things up with a nice musical bow. Enjoy!
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=egxhutrw2ed0qq1yvrg0kepi9&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=09ff00&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+### And finally, we can wrap things up with a nice musical bow. Thank you for visiting - I hope you enjoy!
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=egxhutrw2ed0qq1yvrg0kepi9&cover_image=true&theme=natemoo-re&show_offline=true&background_color=53bc4f&interchange=false&bar_color=000000&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=egxhutrw2ed0qq1yvrg0kepi9&redirect=true)
 
